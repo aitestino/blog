@@ -23,3 +23,7 @@ theme = "hugo-theme-bootstrap"
     icon = "linkedin"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/andrea-testino-891348111/"
+
+# /config/_default/config.toml
+[build]
+  writeStats = true
