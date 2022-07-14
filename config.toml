@@ -1,3 +1,25 @@
-baseURL = 'http://example.org/'
+baseURL = "https://aitestino.github.io/blog-hugo/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Andrea Testino'
+theme = "hugo-theme-bootstrap"
+
+[params]
+  author = "Andrea Testino"
+  description = "Sharing my IT adventures and CCIE DevNet journey!"
+  avatar = "/global/avatar.jpg"
+  images = ["/global/avatar.jpg"]
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/aitestino"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/andrea_testino"
+
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/andrea-testino-891348111/"
