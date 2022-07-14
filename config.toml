@@ -1,7 +1,7 @@
 baseURL = "https://aitestino.github.io/blog-hugo/"
 languageCode = 'en-us'
 title = 'Andrea Testino'
-theme = "hugo-theme-bootstrap"
+theme = "m10c"
 
 [params]
   author = "Andrea Testino"
