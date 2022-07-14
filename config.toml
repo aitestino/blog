@@ -1,13 +1,13 @@
-baseURL = "https://aitestino.github.io/blog-hugo/"
-languageCode = 'en-us'
-title = 'Andrea Testino'
+baseURL = "https://aitestino.github.io/blog"
+languageCode = "en-us"
+title = "Andrea Testino"
 theme = "m10c"
 
 [params]
   author = "Andrea Testino"
   description = "Sharing my IT adventures and CCIE DevNet journey!"
-  avatar = "/global/avatar.jpg"
-  images = ["/global/avatar.jpg"]
+  avatar = "/global/avatar.JPG"
+  images = ["/global/avatar.JPG"]
 
   [[params.social]]
     icon = "github"
