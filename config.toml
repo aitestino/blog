@@ -6,8 +6,8 @@ theme = "m10c"
 [params]
   author = "Andrea Testino"
   description = "Sharing my IT adventures and CCIE DevNet journey!"
-  avatar = "./static/global/avatar.JPG"
-  images = ["./static/global/avatar.JPG"]
+  avatar = "/global/avatar.png"
+  images = ["/global/avatar.png"]
 
   [[params.social]]
     icon = "github"
