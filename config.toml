@@ -23,7 +23,3 @@ theme = "m10c"
     icon = "linkedin"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/andrea-testino-891348111/"
-
-# /config/_default/config.toml
-[build]
-  writeStats = true
