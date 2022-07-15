@@ -1,4 +1,4 @@
-baseURL = "https://aitestino.github.io/blog"
+baseURL = "https://aitestino.github.io/blog/"
 languageCode = "en-us"
 title = "Andrea Testino's Blog"
 theme = "m10c"
